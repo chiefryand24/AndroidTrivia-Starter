@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_about.xml" value="0.1484375" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game.xml" value="0.17604166666666668" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game_over.xml" value="0.1" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_game_won.xml" value="0.1" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_rules.xml" value="0.1" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/fragment_title.xml" value="0.25" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/layout/placeholder_layout.xml" value="0.1" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/menu/navdrawer_menu.xml" value="0.33" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/menu/options_menu.xml" value="0.5" />
+        <entry key="..\:/ACTIVITY/AKADEMIK/SEM 5/5. PEMROGRAMAN MOBILE/TUGAS/5/AndroidTrivia-Starter/app/src/main/res/menu/winner_menu.xml" value="0.5" />
+        <entry key="..\:/DOCUMENTS/5. SEMESTER 5/3 Pemrograman Mobile/TUGAS/AndroidTrivia-Starter/AndroidTrivia-Starter-main/app/src/main/res/layout/fragment_title.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
