@@ -61,30 +61,30 @@
             android:id="@+id/id_nama"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="125dp"
+            android:layout_marginStart="150dp"
             android:layout_marginTop="32dp"
-            android:layout_marginEnd="125dp"
+            android:layout_marginEnd="150dp"
             android:layout_marginBottom="32dp"
             android:fontFamily="sans-serif-medium"
-            android:text="Seprianto"
+            android:text="SEPRIANTO"
             android:textAlignment="center"
             android:textColor="#000000"
             android:textSize="24sp"
             android:textStyle="bold"
             app:flow_wrapMode="none"
-            app:layout_constraintBottom_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/titleImage"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/titleImage"
-            app:layout_constraintVertical_bias="0.669" />
+            app:layout_constraintTop_toBottomOf="@+id/titleImage"
+            app:layout_constraintVertical_bias="1.0" />
 
         <TextView
-            android:id="@+id/id_nama2"
+            android:id="@+id/id_nim"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="125dp"
-            android:layout_marginEnd="125dp"
-            android:layout_marginBottom="72dp"
+            android:layout_marginStart="150dp"
+            android:layout_marginEnd="150dp"
+            android:layout_marginBottom="60dp"
             android:fontFamily="sans-serif-black"
             android:text="D121191059"
             android:textAlignment="center"
@@ -94,7 +94,6 @@
             app:flow_wrapMode="none"
             app:layout_constraintBottom_toTopOf="@+id/playButton"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.473"
             app:layout_constraintStart_toStartOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
